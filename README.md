@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hej there! 👋
+
+Welcome to our Bosch enterprise here on GitHub.
+
+If you need more information about the usage of GitHub at Bosch, please take a look at our [User Guide](https://docs.boschdevcloud.com/userguide/index.html?id=GitHub).
+
+Take care, that this is a technical user! You can't send messages to it. Well, technically you can - but since nobody reads them, you'd better not. If you need to get support, please visit our [Service Desk](https://bosch-bdc.atlassian.net/servicedesk/customer/portal/7).
 
 <!--
 **bosch-automation/bosch-automation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
